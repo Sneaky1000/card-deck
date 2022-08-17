@@ -1,2 +1,2 @@
-# go-deck-of-cards
+# deck
 This is a basic, standard deck of cards.
