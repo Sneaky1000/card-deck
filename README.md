@@ -1,2 +1,2 @@
 # deck
-This is a basic, standard deck of cards.
+This is a basic, standard deck of cards. There are features like shuffle included.
